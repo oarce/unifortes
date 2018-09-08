@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/06 21:13:13.000.759,=D:\dev\autosave\Unit2.pas</Transaction>
+    <Transaction>2018/09/07 09:36:37.000.079,=D:\dev\autosave\Unit2.pas</Transaction>
+    <Transaction>2018/09/07 09:38:46.000.383,D:\dev\testes\UniFortes\uPrincipal.pas=D:\dev\autosave\Unit2.pas</Transaction>
+    <Transaction>2018/09/07 09:38:46.000.383,D:\dev\testes\UniFortes\uPrincipal.dfm=D:\dev\autosave\Unit2.dfm</Transaction>
+    <Transaction>2018/09/07 09:38:59.000.170,D:\dev\testes\UniFortes\UniFortes.dproj=D:\dev\autosave\Project2.dproj</Transaction>
+    <Transaction>2018/09/07 09:40:17.000.040,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 09:40:29.000.323,D:\dev\testes\UniFortes\uConfigDB.dfm=D:\dev\testes\UniFortes\Unit1.dfm</Transaction>
+    <Transaction>2018/09/07 09:40:29.000.323,D:\dev\testes\UniFortes\uConfigDB.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 09:57:49.000.581,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 10:01:48.000.362,=D:\dev\testes\UniFortes\Unit2.pas</Transaction>
+    <Transaction>2018/09/07 10:03:30.000.020,D:\dev\testes\UniFortes\Enumeradores.pas=D:\dev\testes\UniFortes\Unit2.pas</Transaction>
+    <Transaction>2018/09/07 10:03:37.000.277,D:\dev\testes\UniFortes\Util.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 12:13:06.000.322,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 12:14:08.000.501,D:\dev\testes\UniFortes\Atributos.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 12:29:17.000.343,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 12:32:30.000.091,D:\dev\testes\UniFortes\Tabelas.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 12:47:08.000.877,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 12:51:10.000.944,D:\dev\testes\UniFortes\tbl.Professores.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 14:36:28.000.755,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 14:37:29.000.084,D:\dev\testes\UniFortes\tbl.Disciplinas.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 15:12:13.000.759,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 15:13:02.000.377,D:\dev\testes\UniFortes\tbl.Alunos.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 15:15:21.000.470,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 15:24:58.000.266,=D:\dev\testes\UniFortes\Unit2.pas</Transaction>
+    <Transaction>2018/09/07 15:27:04.000.519,D:\dev\testes\UniFortes\tbl.Aulas.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 15:27:12.000.632,D:\dev\testes\UniFortes\tbl.Atribuicao.pas=D:\dev\testes\UniFortes\Unit2.pas</Transaction>
+    <Transaction>2018/09/07 15:52:36.000.938,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 15:52:44.000.283,D:\dev\testes\UniFortes\uCadBase.dfm=D:\dev\testes\UniFortes\Unit1.dfm</Transaction>
+    <Transaction>2018/09/07 15:52:44.000.283,D:\dev\testes\UniFortes\uCadBase.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 16:15:44.000.134,=D:\dev\testes\UniFortes\uPsqBase.pas</Transaction>
+    <Transaction>2018/09/07 17:52:27.000.452,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 17:52:41.000.115,D:\dev\testes\UniFortes\uCadDISCIPLINAS.pas=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 17:52:41.000.115,D:\dev\testes\UniFortes\uCadDISCIPLINAS.dfm=D:\dev\testes\UniFortes\Unit1.dfm</Transaction>
+    <Transaction>2018/09/07 18:28:44.000.352,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 18:30:25.000.143,D:\dev\testes\UniFortes\Unit1.dfm=D:\dev\testes\UniFortes\uCadDALUNOS.dfm</Transaction>
+    <Transaction>2018/09/07 18:30:25.000.143,D:\dev\testes\UniFortes\Unit1.pas=D:\dev\testes\UniFortes\uCadDALUNOS.pas</Transaction>
+    <Transaction>2018/09/07 18:37:37.000.547,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 18:37:48.000.433,D:\dev\testes\UniFortes\Unit1.dfm=D:\dev\testes\UniFortes\uCadPROFESSORES.dfm</Transaction>
+    <Transaction>2018/09/07 18:37:48.000.433,D:\dev\testes\UniFortes\Unit1.pas=D:\dev\testes\UniFortes\uCadPROFESSORES.pas</Transaction>
+    <Transaction>2018/09/07 19:29:50.000.646,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 19:31:51.000.951,D:\dev\testes\UniFortes\Unit1.dfm=D:\dev\testes\UniFortes\uControleAulas.dfm</Transaction>
+    <Transaction>2018/09/07 19:31:51.000.951,D:\dev\testes\UniFortes\Unit1.pas=D:\dev\testes\UniFortes\uControleAulas.pas</Transaction>
+    <Transaction>2018/09/07 19:43:42.000.168,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 19:43:54.000.615,D:\dev\testes\UniFortes\Unit1.dfm=D:\dev\testes\UniFortes\uCadAULAS.dfm</Transaction>
+    <Transaction>2018/09/07 19:43:54.000.615,D:\dev\testes\UniFortes\Unit1.pas=D:\dev\testes\UniFortes\uCadAULAS.pas</Transaction>
+    <Transaction>2018/09/07 21:19:17.000.627,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 21:19:36.000.042,D:\dev\testes\UniFortes\Unit1.pas=D:\dev\testes\UniFortes\uDefRelatorios.pas</Transaction>
+    <Transaction>2018/09/07 21:19:36.000.042,D:\dev\testes\UniFortes\Unit1.dfm=D:\dev\testes\UniFortes\uDefRelatorios.dfm</Transaction>
+    <Transaction>2018/09/07 22:16:02.000.560,=D:\dev\testes\UniFortes\Unit1.pas</Transaction>
+    <Transaction>2018/09/07 22:16:09.000.319,D:\dev\testes\UniFortes\Unit1.pas=D:\dev\testes\UniFortes\uRelatorios.pas</Transaction>
+    <Transaction>2018/09/07 22:16:09.000.319,D:\dev\testes\UniFortes\Unit1.dfm=D:\dev\testes\UniFortes\uRelatorios.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
